@@ -1,4 +1,4 @@
-import { makeClass, Test1 } from "./file1
+import { makeClass, Test1 } from "./file1"
 
 // fine
 export class Test3 extends Test1 { }
